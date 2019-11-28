@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
-import './App.css';
+// import './App.css';
+import './App.less';
 
 function App() {
   return (
@@ -10,7 +11,6 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p>11245154163133</p>
         <a
           className="App-link"
           href="https://reactjs.org"
